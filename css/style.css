@@ -57,14 +57,15 @@ body{
         }
         50%{
               background-color:#a30f2d;
-              color: white
+              color: hotpink
         }
         75%{
-                background-color: ;
+                background-color: #4169e1;
+                color: lightcoral;
         }
         100%{
                 background-color: #09095d;
-                color: white;
+                color: sienna;
         }
 }
 
